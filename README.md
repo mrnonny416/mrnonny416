@@ -1,18 +1,44 @@
-### Hi there 👋
-- 🌱 I’m currently learning blockchian and Web3
-  <!--  * <a href="url"><img src="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.6435-9/48056409_2350779754992986_5884752395551899648_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=378N5IOMLcIAX85ojrr&_nc_ht=scontent.fbkk5-7.fna&oh=00_AT-A9Mz4AdAa7k3ISLGiPKlGJ2F_w329EEoepWBaG05s5Q&oe=6262F3A0" align="left" height="200" width="200" ></a>
+# Hi there 👋, I’m **Mrnonny**
 
-**mrnonny416/mrnonny416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full‑Stack Engineer | ML Enthusiast | Flutter Developer**
 
-Here are some ideas to get you started:
+Based in Chiang Rai, Thailand. Freelancer and open-source contributor learning cutting-edge tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning NFT and Web3
+---
+
+## 🚀 Tech Stack
+
+| Frontend       | Backend         | Mobile         | Database & Cloud | Languages      | Emerging |
+|----------------|------------------|----------------|------------------|----------------|-----------|
+| React, React Native | Node.js, Django | Flutter        | Firebase, SQL     | JS, TS, Python, C++, Dart | IoT, ML, Blockchain/Web3 |
+
+---
+
+## 🔭 Featured Projects
+
+- **Django PredictGrade ML Website**  
+  Predicts academic performance using a custom ML pipeline. Built with Django + Python.
+
+- **Flutter CricketCare App**  
+  A mobile app (iOS & Android) covering cricket stats, news, and performance tracking.
+
+- **HyperLootArmorHunter**  
+  A Unity-based (or game engine) title combining real‑time gameplay and inventory mechanics.
+
+---
+
+## 🌱 Learning & Growth
+
+Currently diving into IoT solutions and exploring blockchain/Web3 development. Excited about the intersection of AI and decentralized technologies.
+
+---
+
+## 🤝 Let's Collaborate
+
+- Open to freelance, contract, and open-source roles  
+- Interested in IoT, ML, mobile apps, blockchain, and full‑stack innovations  
+- Connect with me: [@OnzenNonny on X]
+
+---
+
+****
