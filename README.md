@@ -37,7 +37,6 @@ Currently diving into IoT solutions and exploring blockchain/Web3 development. E
 
 - Open to freelance, contract, and open-source roles  
 - Interested in IoT, ML, mobile apps, blockchain, and full‑stack innovations  
-- Connect with me: [@OnzenNonny on X]
 
 ---
 
