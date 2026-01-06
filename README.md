@@ -112,7 +112,7 @@ Freelancer • Open-Source Contributor • Tech Explorer
 
 📫 **Reach Me**
 - GitHub: https://github.com/mrnonny416
-- LinkedIn: (add your link)
-- Email: (optional)
+- LinkedIn: www.linkedin.com/in/tawee-sopapan-a5a083233
+- Email: tawsopapan@gmail.com
 
 ⭐ If you like my work, consider starring a repo — it helps a lot!
